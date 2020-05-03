@@ -1,6 +1,6 @@
-# lista_tarefas
+# Lista de tarefas
 
-A new Flutter project.
+List de tarefas utilizando path provider para gravar dados na memória do celular.
 
 ## Getting Started
 
